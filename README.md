@@ -25,5 +25,3 @@ Clique nos links abaixo para acessar os arquivos de cada semana:
 
 ---
 
-
-**Para entregar no Moodle:** Navegue até a pasta da semana correspondente, copie a URL (o endereço) que aparece lá em cima no seu navegador e cole no local de entrega do Moodle.
